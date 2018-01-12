@@ -18,9 +18,9 @@ cal_dates: >
   {"label":"Last day of classes", "date":"2018-03-14" }
   ]
 
-course: "CS64"
-#legacy_wiki_name: 8wiki
-#legacy_wiki_url: "https://foo.cs.ucsb.edu/8wiki" 
+course: "CS8"
+legacy_wiki_name: 8wiki
+legacy_wiki_url: "https://foo.cs.ucsb.edu/8wiki" 
 qtr: "W18"
 quarter: "Winter 2018"
 
